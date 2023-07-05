@@ -14,4 +14,4 @@ npm run dev
 
 **LIVE SITE**
 
-pending...
+[Click Here](https://iam-naveen.github.io/svelte-todo-app/)
